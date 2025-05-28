@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+#board {
+  width: 400px;
+  margin: 20px auto;
+}
+#commandInput {
+  padding: 10px;
+  width: 250px;
+}
+button {
+  padding: 10px 15px;
+  margin: 10px;
+}
